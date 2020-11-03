@@ -1,0 +1,80 @@
+body{
+	font-family: 'Questrial', sans-serif;
+}
+h1{
+	
+	font-family: 'Caveat', cursive;
+	font-size: 4rem;
+	font-weight: bold;
+	line-height: 1.5;
+}
+
+.container-fluid{
+	padding:0% 15%;
+}
+#title{
+	background-color: #a35d6a;
+}
+
+#details{
+	padding:100px 5px 5px 5px;
+	background-color: #cedebd;
+}
+.inside{
+	padding:3%;
+	text-align:center;
+}
+.spark{
+	padding:50px;
+}
+.icon{
+	text-align: center;
+	margin-bottom:1rem;
+}
+.btn{
+	margin:20px;
+}
+h2,h3{
+	font-family: 'Dancing Script', cursive;
+	padding-bottom: 2rem;
+	font-weight: bold;
+	font-size:2rem;
+}
+.test{
+	background-color:#a35d6a;
+	padding:7% 15%;
+	text-align:center;
+
+}
+.image{
+	width:25%;
+	border-radius: 100%;
+}
+#slide{
+	padding:3%;
+	text-align: center;
+	background-color: #cedebd;
+}
+.order{
+	background-color:#cedebd;
+	padding:5% 10%;
+	text-align:center
+}
+#last{
+	padding:7% 15%;
+	background-color:#a35d6a;
+	text-align:center; 
+}
+#para{
+	padding:20px;
+}
+@media (max-width:500px){
+	h1{
+		font-size:30px;
+	}
+	
+	body{
+		text-align:center;
+		font-size: 15px;
+	}
+}
